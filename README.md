@@ -1,6 +1,6 @@
 # Paint-With-Hand-Recognition
 <br/>
-This project aims creat a paint program with artificial intellegence. You can configure screen, record, color configurations in `conf.py` files.
+This project aims creat a paint program with artificial intellegence. You can configure screen, record, color configurations in `<conf.py>` files.
 
 ## Sample Record
 <br/>
